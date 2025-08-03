@@ -1,18 +1,31 @@
+# Tier-Based Event Showcase
+
+A Next.js application with Clerk authentication and tier-based event display.
+
+## Features
+- User authentication with Clerk
+- Tier-based event filtering
+- Responsive design with Tailwind CSS
+
+## Setup
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Create `.env.local` with your Clerk and Supabase keys
+4. Run: `npm run dev`
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
